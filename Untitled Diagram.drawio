@@ -1,1 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T09:20:00.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="19.0.1" etag="X4rLxwlSJdqLA7JCN5w7" type="github"><diagram id="6uE1O_6fpSkZmwopCChP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-13T09:29:11.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="BVLOCr8lzEjl_57rcfp6" version="19.0.1" type="github">
+  <diagram id="6uE1O_6fpSkZmwopCChP" name="Page-1">
+    <mxGraphModel dx="912" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zxVy3NK1CBtLwKCtLOPD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zxVy3NK1CBtLwKCtLOPD-1" target="zxVy3NK1CBtLwKCtLOPD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxVy3NK1CBtLwKCtLOPD-1" value="前端开发&lt;br&gt;（人翻 / 机翻）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zxVy3NK1CBtLwKCtLOPD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zxVy3NK1CBtLwKCtLOPD-2" target="zxVy3NK1CBtLwKCtLOPD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zxVy3NK1CBtLwKCtLOPD-2" value="开发完成，上线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zxVy3NK1CBtLwKCtLOPD-3" value="非技术人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zxVy3NK1CBtLwKCtLOPD-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.442;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.425;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="613.04" y="359.98" as="sourcePoint" />
+            <mxPoint x="201" y="360.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="613" y="408" />
+              <mxPoint x="201" y="408" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zxVy3NK1CBtLwKCtLOPD-11" value="&lt;span style=&quot;&quot;&gt;提出修改意见&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
